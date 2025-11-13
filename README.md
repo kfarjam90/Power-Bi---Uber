@@ -1,5 +1,7 @@
 # Uber Rides Analysis - Power BI Dashboard
 
+![](image.png)
+
 ## 📊 Project Overview
 
 This Power BI project provides a comprehensive analysis of Uber ride data, focusing on key performance metrics, revenue analysis, customer behavior, and operational insights. The dashboard offers interactive visualizations to explore ride completion rates, revenue by vehicle type, customer patterns, and geographical trends.
